@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**AayushiMakker/AayushiMakker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Aayushi Makker 
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AIML) student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🛠️ Building projects and experimenting with new technologies  
+🚀 Aspiring to build impactful AI products and startups-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Fun fact:
+  
+⚡ I completed Harvard's CS50 and fell in love with coding  
+🎾 I play lawn tennis  
+💡 I enjoy turning random ideas into tech projects  
+🚀 My long-term goal is to build successful AI startups  
+☕ Most of my coding ideas come while drinking coffee
+⚙️ If it can be automated, I want to build it
