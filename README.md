@@ -7,8 +7,7 @@
 🛠️ Building projects and experimenting with new technologies  
 🚀 Aspiring to build impactful AI products and startups-
 
--  Fun fact:
-  
+-  Fun fact:  
 ⚡ I completed Harvard's CS50 and fell in love with coding  
 🎾 I play lawn tennis  
 💡 I enjoy turning random ideas into tech projects  
