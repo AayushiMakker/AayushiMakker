@@ -1,5 +1,4 @@
 ## Hi there 👋
-
  I'm Aayushi Makker 
 
 🎓 B.Tech CSE (AIML) student  
