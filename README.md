@@ -11,5 +11,4 @@
 🎾 I play lawn tennis  
 💡 I enjoy turning random ideas into tech projects  
 🚀 My long-term goal is to build successful AI startups  
-☕ Most of my coding ideas come while drinking coffee
 ⚙️ If it can be automated, I want to build it
